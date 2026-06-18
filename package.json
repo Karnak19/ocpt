@@ -1,0 +1,29 @@
+{
+  "name": "@Karnak19/ocpt",
+  "version": "1.0.0",
+  "description": "Ponytail plugin for OpenCode - makes your AI agent think like the laziest senior dev",
+  "type": "module",
+  "main": "plugin.mjs",
+  "exports": {
+    ".": "./plugin.mjs"
+  },
+  "keywords": [
+    "opencode",
+    "opencode-plugin",
+    "ponytail",
+    "yagni",
+    "lazy",
+    "ai-agent"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karnak19/ocpt.git"
+  },
+  "files": [
+    "plugin.mjs",
+    ".opencode/commands/*.md",
+    "README.md"
+  ]
+}
