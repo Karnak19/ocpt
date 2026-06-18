@@ -1,5 +1,5 @@
 {
-  "name": "@Karnak19/ocpt",
+  "name": "@karnak19/ocpt",
   "version": "1.0.0",
   "description": "Ponytail plugin for OpenCode - makes your AI agent think like the laziest senior dev",
   "type": "module",

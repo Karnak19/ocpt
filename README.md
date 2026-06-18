@@ -5,14 +5,14 @@ Ponytail plugin for OpenCode — makes your AI agent think like the laziest seni
 ## Install
 
 ```bash
-npm install @Karnak19/ocpt
+npm install @karnak19/ocpt
 ```
 
 Then add to your `opencode.json`:
 
 ```json
 {
-  "plugin": ["@Karnak19/ocpt"]
+  "plugin": ["@karnak19/ocpt"]
 }
 ```
 
