@@ -1,18 +1,18 @@
-# opencode-ponytail
+# ocpt
 
 Ponytail plugin for OpenCode — makes your AI agent think like the laziest senior dev in the room.
 
 ## Install
 
 ```bash
-npm install opencode-ponytail
+npm install @Karnak19/ocpt
 ```
 
 Then add to your `opencode.json`:
 
 ```json
 {
-  "plugin": ["opencode-ponytail"]
+  "plugin": ["@Karnak19/ocpt"]
 }
 ```
 
